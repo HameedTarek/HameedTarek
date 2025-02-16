@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hey, I'm Hamed Tarek El-Sayed
 
-<!--
-**HameedTarek/HameedTarek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Freelance Developer | Designer | Moderator  
 
-Here are some ideas to get you started:
+I'm a passionate **developer, designer, and community moderator**, helping businesses and individuals bring their ideas to life. Whether it's crafting modern websites, designing stunning visuals, or managing online communities, I deliver high-quality results.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 Skills:  
+- 💻 **Web Development** – Building fast, responsive, and scalable websites & applications.  
+- 🎨 **Graphic & UI/UX Design** – Creating eye-catching visuals and user-friendly experiences.  
+- 🛠 **Community Moderation** – Managing and growing digital communities with professionalism.  
+
+### 📫 Let's Connect:  
+- 🔗 [Portfolio](https://github.coom/HameeedTarek)  
+- 📧 [Email](mailto:HamedTarekElSayed@gmail.com) 
+
+Always open to new projects and collaborations. Let’s build something great together! 🚀  
